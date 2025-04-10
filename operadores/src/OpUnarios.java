@@ -13,7 +13,7 @@ public class OpUnarios {
         //adicionando valor a variaveis 
 
         numero++; // quando utilizado "++" eu adiciono +1 ao valor anterior, 
-                  //por exemplo, antes o valor era -5 e depos virou -4.
+                  //por exemplo, antes o valor era -5 e depos virou -4
 
         System.out.println(numero);
     }
